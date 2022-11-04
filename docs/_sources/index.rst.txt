@@ -1,5 +1,5 @@
 .. Tate documentation master file, created by
-   sphinx-quickstart on Fri Nov  4 13:40:52 2022.
+   sphinx-quickstart on Fri Nov  4 14:40:53 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -10,7 +10,7 @@ Welcome to Tate's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-hello
+
 
 Indices and tables
 ==================
