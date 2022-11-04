@@ -28,6 +28,10 @@ if "%1" == "" goto help
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
 goto end
 
+:html
+%SPHINXBUILD% -b html %SOURCEDIR% "docs" %SPHINXOPTS% %O%
+goto end
+
 :help
 %SPHINXBUILD% -M help %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
 
