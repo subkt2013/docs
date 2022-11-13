@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Tate's documentation!
+技統本塾活動記録用ドキュメント(舘)
 ================================
 
 .. toctree::
@@ -12,7 +12,7 @@ Welcome to Tate's documentation!
 
 
 
-Indices and tables
+目次
 ==================
 
 * :ref:`genindex`

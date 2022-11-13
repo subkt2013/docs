@@ -3,18 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-技統本塾活動記録用ドキュメント(舘)
+やったこと
 ================================
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-目次
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+ここからが中身です。

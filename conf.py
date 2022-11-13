@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Tate'
+project = '技統本塾活動記録用ドキュメント(舘)'
 copyright = '2022, K.Tate'
 author = 'K.Tate'
 release = '1'
