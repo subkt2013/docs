@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-技統本塾活動記録用ドキュメント(舘)
+技統本塾活動メモ(舘)
 ================================
 
 .. toctree::
@@ -15,6 +15,15 @@
 目次
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+やったこと
+==================
+・SpringBootチュートリアルの単体テスト以外の部分
+・terasoluneチュートリアル
+
+学んだこと
+===================
+
+
+困りごと
+===================
