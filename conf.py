@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '技統本塾活動記録用ドキュメント(舘)'
+project = '技統本塾活動メモ(舘)'
 copyright = '2022, K.Tate'
 author = 'K.Tate'
 release = '1'
@@ -24,5 +24,8 @@ language = 'ja'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+import sphinx_rtd_theme
+html_theme = 'sphinx_rtd_theme'
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
 #html_static_path = ['_static']
